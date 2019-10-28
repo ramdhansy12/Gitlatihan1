@@ -94,9 +94,9 @@ Nah di Quick Setup nanti ada url github kita, url tersebut untuk perintah_ “gi
   ![image](https://user-images.githubusercontent.com/56957725/67558476-45f30480-f741-11e9-841b-0a86e67bbf44.png)
 
 #### **FILE README.md tersebut masih kosong jikalau anda ingin mengisi kekosongan file tersebut silahkan klik saja icon pensil yang berada di kanan atas**. 
-  ![image](https://user-images.githubusercontent.com/56957725/67559345-f6153d00-f742-11e9-911b-ad22c874da88.png)
+ ![image](https://user-images.githubusercontent.com/56957725/67559345-f6153d00-f742-11e9-911b-ad22c874da88.png)
 
 #### **Selanjutnya klik write, jika sudah selesai klik saja commit change**
-![image](https://user-images.githubusercontent.com/56957725/67683036-2b2fc280-f9c3-11e9-98b7-1fa6f5a9c430.png)
+ ![image](https://user-images.githubusercontent.com/56957725/67683036-2b2fc280-f9c3-11e9-98b7-1fa6f5a9c430.png)
 
 ##### **NB : Saya meminta maaf  karena pada langkah-langkah pada gambar ada yang berbeda dikarenakan file yang pertama terhapus**
